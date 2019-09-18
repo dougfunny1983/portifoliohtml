@@ -22,7 +22,7 @@ h1 {
 
 #foto {
     border-radius: 150px;
-    transform: rotate(14deg);
+    transform: rotate(-14deg);
     box-shadow: #aaa
 }
 
@@ -54,4 +54,11 @@ h1 {
 .lis {
     text-align: left;
     font-family: fantasy, cursive;
+}
+
+#poema {
+    text-align: right;
+    font-style: italic;
+    font-family: cursive, sans-serif;
+    font-size: 15px;
 }
