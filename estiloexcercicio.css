@@ -1,7 +1,8 @@
 body {
     background-color: #BFE188;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Montserrat, sans-serif;
     line-height: 2em;
+    font-size: 25px;
 }
 
 h1 {
@@ -15,4 +16,8 @@ h1 {
 .principal {
     font-family: fantasy;
     font-size: inherit;
+}
+
+#foto {
+    border-radius: 100px;
 }
