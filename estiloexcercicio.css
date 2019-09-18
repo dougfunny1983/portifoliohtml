@@ -45,3 +45,13 @@ h1 {
     -webkit-text-fill-color: transparent;
     text-shadow: 4px 4px 4px #aaa;
 }
+
+#menu {
+    text-align: left;
+    font-family: fantasy, cursive;
+}
+
+.lis {
+    text-align: left;
+    font-family: fantasy, cursive;
+}
