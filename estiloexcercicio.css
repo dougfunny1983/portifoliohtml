@@ -1,6 +1,7 @@
 body {
     background-color: #BFE188;
-    font-family: fantasy;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 2em;
 }
 
 h1 {
@@ -9,4 +10,9 @@ h1 {
 
 #descrição {
     font-style: italic;
+}
+
+.principal {
+    font-family: fantasy;
+    font-size: inherit;
 }
